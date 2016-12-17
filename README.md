@@ -1,6 +1,6 @@
 # Sliding Window Object Detection (Pedestrians on the street)
-@author Anthony (Tony) Poerio
-@email adp59@pitt.edu
+@author Anthony (Tony) Poerio  
+@email tony@tonypoer.io
 
 ## Overall Notes
 - For this assignment, our goal was to use sliding window object detection to identify pedestrians on the street in a test data set.
